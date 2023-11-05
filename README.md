@@ -69,7 +69,7 @@ No known bugs at this time.
 
 ###### Version 4
 
-- Frank Galos - [Github](https://github.com/reddeath1) / [Twitter](https://www.linkedin.com/in/frankgalos/)
+- Frank Galos - [Github](https://github.com/reddeath1) / [LinkedIn](https://www.linkedin.com/in/frankgalos/)
 
 ###### Version 3
 
@@ -83,8 +83,8 @@ No known bugs at this time.
 
 ###### Version 1
 
-- Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
-- Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
+- Ezra Nobrega <ezra.nobrega@outlook.com>
+- Justin Majetich <justinmajetich@gmail.com>
 
 ## License
 Open source.
